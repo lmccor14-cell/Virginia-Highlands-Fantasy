@@ -1,0 +1,1 @@
+Place your ESPN league season JSON files in this folder.
